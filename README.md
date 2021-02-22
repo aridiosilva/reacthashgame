@@ -18,4 +18,4 @@ start the development server with `npm start`
 
 ## Folder Structure of React Hash game
 
-![Folder Tree Structure]()
+![Folder Tree Structure](https://github.com/aridiosilva/reacthashgame/blob/main/resources/Structure%20of%20the%20Hash%20Game%20Project%20Folder.jpg)
